@@ -1,0 +1,15 @@
+.registerPage{
+    margin: auto;
+    
+    padding:60px;
+    border:2px solid black;
+    text-align: center;
+    margin-top: 20px;
+    width: 50%;
+
+}
+.header{
+    text-align: center;
+    font-weight: bold;
+    color: chocolate;
+}
